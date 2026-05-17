@@ -39,8 +39,7 @@
 
 ---
 ### Contact me:
-email: arsyadkariman894@gmail.com
-       arsyxtzzmc@gmail.com
+email: arsyadkariman894@gmail.com  |  arsyxtzzmc@gmail.com
 
 ---
 
@@ -50,4 +49,4 @@ email: arsyadkariman894@gmail.com
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ryzxll&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
-[![GitHub Streak](https://herokuapp.com)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ryzxll)](https://github.com/DenverCoder1/github-readme-streak-stats)
