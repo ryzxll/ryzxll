@@ -38,9 +38,16 @@
 </p>
 
 ---
+### Contact me:
+email: arsyadkariman894@gmail.com
+       arsyxtzzmc@gmail.com
+
+---
 
 ### 📊 My GitHub Stats:
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ryzxll&show_icons=true&theme=dark" alt="Profil Stats" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ryzxll&layout=compact&theme=dark" alt="Top Langs" />
 </p>
+
+[![GitHub Streak](https://herokuapp.com)](https://git.io/streak-stats)
