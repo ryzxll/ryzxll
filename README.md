@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/60/70/bc/6070bce0309e88e3f242fdecb47e50d7.jpg" alt="Profile Banner" width="100%">
+  <img src="https://i.pinimg.com/736x/1c/9a/3f/1c9a3f036c50951952344cef759f7e63.jpg" alt="Profile Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Arsyad Kariman 👋</h1>
