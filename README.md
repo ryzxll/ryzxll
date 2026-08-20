@@ -1,52 +1,42 @@
-## Hi there 👋, I'm ryzxll
-
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" alt="Termux" />
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/60/70/bc/6070bce0309e88e3f242fdecb47e50d7.jpg" alt="Profile Banner" width="100%">
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+<h1 align="center">Hi, I'm Arsyad Kariman 👋</h1>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Nmap-007ACC?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GParted-000000?style=for-the-badge&logo=gparted&logoColor=white" alt="GParted" />
-  <img src="https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Blockbench-121212?style=for-the-badge&logo=blockbench&logoColor=white" alt="Blockbench" />
-  <img src="https://img.shields.io/badge/Kdenlive-232629?style=for-the-badge&logo=kdenlive&logoColor=cyan" alt="Kdenlive" />
-  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
+<p align="center">
+  <em>Software Engineer | Systems Enthusiast | Reverse-Engineer</em>
 </p>
 
 ---
-### Contact me:
-email: arsyadkariman894@gmail.com  |  arsyxtzzmc@gmail.com
+
+### 🌐 Contact
+- **Website:** [ i dont have yet ]
+- **Email:** [ arsyadkariman894@gmail.com | arsyxtzzmc@gmail.com ]
+- **LinkedIn:** [ nope ]
+- **Twitter/X:** [ @NeverAnswer ]
 
 ---
 
-### 📊 My GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ryzxll&show_icons=true&theme=dark" alt="Profil Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ryzxll&layout=compact&theme=dark" alt="Top Langs" />
-</p>
+### 🛠 Core Skills
+[![My Skills](https://skillicons.dev/icons?i=py,rust,c,cpp,js,linux,git,bash,docker,arch,debian,vim)](https://skillicons.dev)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ryzxll)](https://github.com/DenverCoder1/github-readme-streak-stats)
+- **Languages:** [Python, Rust, C, x86 Assembly, Bash]
+- **Infra & Systems:** [Linux, Docker, Git, CI/CD]
+- **Backend & Tooling:** [Node.js, Express, Flask]
+- **Specialization:** [Embedded Systems, Reverse Engineering, Firmware]
+
+---
+
+
+---
+
+### 📈 GitHub Stats
+<!-- Kamu bisa pakai Github Readme Stats di sini kalau mau -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=dark)
+
+---
+
+<p align="center">
+  <em>"Insert your favorite quote or terminal command here"</em>
+</p>
