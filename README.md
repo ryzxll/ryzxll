@@ -38,5 +38,5 @@
 ---
 
 <p align="center">
-  <em>"Insert your favorite quote or terminal command here"</em>
+  <em>"just a script kiddie"</em>
 </p>
