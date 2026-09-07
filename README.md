@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Arsyad Kariman 👋</h1>
 
 <p align="center">
-  <em>Software Engineer | 13 Years old skid | Systems Enthusiast | Reverse-Engineer</em>
+  <em>Software Engineer | 13yo skid | Systems Enthusiast | Reverse-Engineer</em>
 </p>
 
 ---
